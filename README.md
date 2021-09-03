@@ -8,7 +8,7 @@ This specialization has 10 courses, each of them covering different topics and p
 1. What is Data Science?
 2. Tools for Data Science
 3. Data Science Methodology
-4. [Python for Data Science, AI & Development]()
+4. [Python for Data Science, AI & Development](https://github.com/kevin-goetz/Data-Science-Specialization/tree/main/04_Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 5. [Python Project for Data Science]()
 6. [Databases and SQL for Data Science with Python]()
 7. [Data Analysis with Python]()
@@ -46,8 +46,8 @@ The other courses are hands on and you can learn a lot from them, especially if 
 More specific learnings are in the course folder's README!
 
 ## Reference & more Infos
-- For more Information visit Coursera: https://www.coursera.org/professional-certificates/ibm-data-science
-- Or visit the IBM website: https://www.ibm.com/training/badge/fb3af6d8-2402-4acb-b852-7a0c5034c976
+- For more Information visit [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+- Or visit the [IBM website](https://www.ibm.com/training/badge/fb3af6d8-2402-4acb-b852-7a0c5034c976)
 
 ## 📫 Let's connect and learn from each other:
 
