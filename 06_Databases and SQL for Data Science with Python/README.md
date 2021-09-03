@@ -4,7 +4,7 @@
 This course teaches relational database concepts, can construct and execute SQL queries, and has demonstrated hands-on experience accessing data from databases using Python-based Data Science tools like Jupyter notebooks.
 
 ## Skills
-Technical skills learned in this specialization are:
+Technical skills learned in this course are:
 - Architecture of RDBMS
 - DDL & DML with SQL
 - DB querying with Python sqlalchemy
