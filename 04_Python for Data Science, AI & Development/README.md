@@ -6,7 +6,7 @@ This course aims to teach Python fundamentals, including data structures and dat
 By the end of this course, the participant feels comfortable creating basic programs, working with data, and solving real-world problems in Python.
 
 ## Skills
-Technical skills learned in this specialization are:
+Technical skills learned in this course are:
 - Python build-in Data Strcutures (Lists, Tuples, Dicts, Sets, Floats, Ints, Strings, etc.)
 - Variables and Expressions
 - Conditional Code
