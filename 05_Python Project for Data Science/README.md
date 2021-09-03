@@ -4,7 +4,7 @@
 This course is intended to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple visualization of API & Web Scraping data using Python.
 
 ## Skills
-Technical skills learned in this specialization are:
+Technical skills learned in this course are:
 - Web Scraping (Requests, BeautifulSoup)
 - EDA (Pandas, Matplotlib)
 - Data Visualization (Plotly)
