@@ -43,7 +43,7 @@ I recommend skipping the first 3 courses (or not wasting too much time on them i
 
 The other courses are hands on and you can learn a lot from them, especially if you play around with the code and do not copy/paste everything before trying to solve it from scratch.
 
-More specific learnings are in the course folder's README!
+**More specific learnings for each topic are in the course folder's README!**
 
 ## Reference & more Infos
 - For more Information visit [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
