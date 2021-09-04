@@ -9,12 +9,12 @@ This specialization has 10 courses, each of them covering different topics and p
 2. Tools for Data Science
 3. Data Science Methodology
 4. [Python for Data Science, AI & Development](https://github.com/kevin-goetz/Data-Science-Specialization/tree/main/04_Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
-5. [Python Project for Data Science]()
-6. [Databases and SQL for Data Science with Python]()
-7. [Data Analysis with Python]()
-8. [Data Visualization with Python]()
-9. [Machine Learning with Python]()
-10. [Applied Data Science Capstone Project]()
+5. [Python Project for Data Science](https://github.com/kevin-goetz/Data-Science-Specialization/tree/main/05_Python%20Project%20for%20Data%20Science)
+6. [Databases and SQL for Data Science with Python](https://github.com/kevin-goetz/Data-Science-Specialization/tree/main/06_Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+7. [Data Analysis with Python](https://github.com/kevin-goetz/Data-Science-Specialization/tree/main/07_Data%20Analysis%20with%20Python)
+8. [Data Visualization with Python](https://github.com/kevin-goetz/Data-Science-Specialization/tree/main/08_Data%20Visualization%20with%20Python)
+9. [Machine Learning with Python](https://github.com/kevin-goetz/Data-Science-Specialization/tree/main/09_Machine%20Learning%20with%20Python)
+10. [Applied Data Science Capstone Project](https://github.com/kevin-goetz/Data-Science-Specialization/tree/main/10_Applied%20Data%20Science%20Capstone)
 
 ## Skills
 Technical skills learned in this specialization are:
