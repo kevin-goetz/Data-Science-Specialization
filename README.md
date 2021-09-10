@@ -1,5 +1,14 @@
 # Data-Science-Specialization
 
+## Access 
+View the notebooks online:
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/kevin-goetz/Data-Science-Specialization/tree/main/)
+
+Excecute the notebooks online: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevin-goetz/Data-Science-Specialization/HEAD)
+
+ This can take some time if the binder environment needs to be rebuilt. 
+
 ## Description
 This 10-course Data Science specialization from the IBM Professional Certificate (hosted on Coursera) teaches you how to apply Data Science methodology, work with Jupyter notebooks, create Python apps, access relational databases using SQL & Python, use Python libraries to generate data visualizations, perform data analysis using Pandas, construct & evaluate Machine Learning (ML) models using Scikit-learn & SciPy and apply data science & ML techniques to real location data sets.
 
